@@ -1,4 +1,4 @@
-#Formula Distance Log-Normal Shadowing Models
+<h1>Formula Distance Log-Normal Shadowing Models</h1>
 
 in Log-Normal Shadowing Model after to get shadowing value using library with parameter standard deviation (Sigma), then go to next formula to get Distance. So formula :
 
