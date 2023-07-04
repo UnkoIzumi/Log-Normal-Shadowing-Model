@@ -67,3 +67,17 @@ RSSI(d) is the received signal strength indication (RSSI) at distance d,
 RSSI(ref) is the reference RSSI at a reference distance,
 PL(d) is the path loss at distance d calculated using the path loss formula,
 X is the log-normal shadowing term.
+
+Source By : ChatGPT in the Reference Link Websites
+
+"Exponential Moving Average" on Wikipedia: https://en.wikipedia.org/wiki/Moving_average#Exponential_moving_average
+"Exponential Moving Average Explained" by Towards Data Science: https://towardsdatascience.com/exponential-moving-average-ema-explained-809e2f40b849
+"Exponential Smoothing for Time Series Forecasting" by Machine Learning Mastery: https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/
+
+Source By Article Books:
+Path Loss and Shadowing Models:
+For path loss models and shadowing, you can refer to wireless communication textbooks and research papers. Some popular books include:
+ 1. "Wireless Communications: Principles and Practice" by Theodore S. Rappaport
+ 2. "Wireless Communications and Networks" by William Stallings
+ 3. "Mobile Communications" by Jochen Schiller
+ 4. The Box-Muller transform is a method to generate random numbers from a normal distribution (Gaussian distribution). You can find detailed explanations and examples in probability and statistics textbooks or research papers.
