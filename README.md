@@ -4,10 +4,16 @@ Formula to Get Shadowing Using Parameter RSSI Wi-Fi in ESP Arduino IDE
 In the log-normal shadowing model, the log-normal shadowing term, denoted as X, follows a log-normal distribution. The distribution is specified by its mean (μ) and standard deviation (σ).
 
 <h3>Mean and Standard Deviation</h3>
-to get mean μ and standard deviation σ can be use formula log-normal distribution, where:
+to get mean μ and standard deviation σ can be use formula log-normal distribution:
 
-![alt text](https://drive.google.com/file/d/11xlQBBXwmf8TKQTFsjIy6HvmerSE_ZZ2/view?usp=sharing)
+![mean](https://github.com/UnkoIzumi/Log-Normal-Shadowing-Model-For-RSSI-WiFi-Using-ESP/assets/46561696/ddadefb3-c281-4cfe-864f-7524fce3262e)
+where, : 
+Xk, is data from RSSI
+sigma k, is sum from all data RSSI
+n, is length from data RSSI
 
+and to get standard deviation using formula,
+![sigma](https://github.com/UnkoIzumi/Log-Normal-Shadowing-Model-For-RSSI-WiFi-Using-ESP/assets/46561696/d127b068-447e-4823-805c-dbe2dad5264c)
 
 The notation X ~ LogNormal(μ, σ) represents that the random variable X is distributed according to a log-normal distribution with mean μ and standard deviation σ.
 
