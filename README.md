@@ -5,14 +5,18 @@ In the log-normal shadowing model, the log-normal shadowing term, denoted as X, 
 
 <h3>Mean and Standard Deviation</h3>
 to get mean μ and standard deviation σ can be use formula log-normal distribution:
-
-![mean](https://github.com/UnkoIzumi/Log-Normal-Shadowing-Model-For-RSSI-WiFi-Using-ESP/assets/46561696/ddadefb3-c281-4cfe-864f-7524fce3262e)
+<br>
+<center>
+ ![mean](https://github.com/UnkoIzumi/Log-Normal-Shadowing-Model-For-RSSI-WiFi-Using-ESP/assets/46561696/ddadefb3-c281-4cfe-864f-7524fce3262e)
+</center>
+<br>
 where, : 
 Xk, is data from RSSI
 sigma k, is sum from all data RSSI
 n, is length from data RSSI
+<br>
+and to get standard deviation using formula,<br>
 
-and to get standard deviation using formula,
 ![sigma](https://github.com/UnkoIzumi/Log-Normal-Shadowing-Model-For-RSSI-WiFi-Using-ESP/assets/46561696/d127b068-447e-4823-805c-dbe2dad5264c)
 
 The notation X ~ LogNormal(μ, σ) represents that the random variable X is distributed according to a log-normal distribution with mean μ and standard deviation σ.
