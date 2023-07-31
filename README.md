@@ -9,11 +9,10 @@ to get mean μ and standard deviation σ can be use formula log-normal distribut
 
  ![mean](https://github.com/UnkoIzumi/Log-Normal-Shadowing-Model-For-RSSI-WiFi-Using-ESP/assets/46561696/ddadefb3-c281-4cfe-864f-7524fce3262e)
  
-<br>
-where, : 
-Xk, is data from RSSI
-sigma k, is sum from all data RSSI
-n, is length from data RSSI
+where, :<br>
+Xk, is data from RSSI<br>
+sigma k, is sum from all data RSSI<br>
+n, is length from data RSSI<br>
 <br>
 and to get standard deviation using formula,<br>
 
