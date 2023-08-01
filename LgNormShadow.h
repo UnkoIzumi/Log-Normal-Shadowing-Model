@@ -1,3 +1,12 @@
+/*
+========================================================================================================================================
+    Calculate Log-Normal Shadowing Model, Gaussian Model, Log-Normal Distribution Example.
+    GIT: https://github.com/UnkoIzumi/Log-Normal-Shadowing-Model-For-RSSI-WiFi-Using-ESP
+    LinkedIn: https://www.linkedin.com/in/ilhamfahmiar/
+    (c) 2022 by Ilham Fahmi Amri Rosada
+========================================================================================================================================
+*/
+
 #include <math.h>
 
 float randomFloat() {
